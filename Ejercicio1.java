@@ -1,7 +1,7 @@
 public class Ejercicio1 {
   public static void main(String[] args) {
-    String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
-    for (String i : cars) {
+    String[] marcas = {"Alcampo", "Hacendado", "Lidl", "consum"};
+    for (String i : marcas) {
       System.out.println(i);
     }    
   }
